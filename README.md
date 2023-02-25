@@ -57,3 +57,5 @@ It provides an [OAuth2](https://tools.ietf.org/html/rfc6749 "RFC6749") server so
 Forked from https://github.com/projectestac/moodle-local_oauth.
 
 Oauth2 Library taken from [here](https://github.com/bshaffer/oauth2-server-php)
+
+This work forked from https://github.com/cognitivabrasil/moodle-local_oauth.git 
